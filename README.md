@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sasori2134
+# 👋 Hi, I'm Alex/Sasori2134
 
 🎓 **Student | Aspiring Backend Developer**  
 Building robust backend solutions with Django, Python, and PostgreSQL.
