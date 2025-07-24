@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex (Sasori2134)</h1>
 <h3 align="center">💻 IT Student | Backend & ML Enthusiast | Database Explorer</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/WIHyjvPlC3gAAAAC/sasori-naruto.gif" width="250" alt="Sasori">
-</p>
-
 ---
 
 ### 🚀 About Me
