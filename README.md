@@ -52,6 +52,6 @@
 ---
 
 <p align="center">
-  <em>“you must remember... hesitation is defeat.”</em><br>
+  <em>“hesitation is defeat.”</em><br>
   — <strong>Isshin Ashina</strong>
 </p>
