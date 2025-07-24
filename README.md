@@ -44,7 +44,7 @@
   <a href="mailto:aleksandre.martiashvili.1@btu.edu.ge">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/alex-link/" target="_blank">
+  <a href="https://www.linkedin.com/in/aleksandre-martiashvili-002775371" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
