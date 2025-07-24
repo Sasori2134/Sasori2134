@@ -1,39 +1,62 @@
-# 👋 Hi, I'm Alex/Sasori2134
+<h1 align="center">Hi 👋, I'm Alex (Sasori2134)</h1>
+<h3 align="center">💻 IT Student | Backend & ML Enthusiast | Database Explorer</h3>
 
-🎓 **Student | Aspiring Backend Developer**  
-Building robust backend solutions with Django, Python, and PostgreSQL.
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
+  <img src="https://media.tenor.com/WIHyjvPlC3gAAAAC/sasori-naruto.gif" width="250" alt="Sasori">
+</p>
 
 ---
 
-## 🚀 Currently Learning & Building
+### 🚀 About Me
 
-- Backend development with Django & SQL databases
-- Finance management applications
-
----
-
-## 🎮 Hobbies & Interests
-
-`Coding` &nbsp;|&nbsp; `Gaming` &nbsp;|&nbsp; `Anime`
+- 🎓 IT Student interested in **Machine Learning**, **Backend Development**, and **Databases**
+- 🐧 Linux user and open-source enthusiast  
+- 🔧 Currently learning: `PostgreSQL`, `Django`, and `Java`  
+- 🧠 Favorite tools: `Python`, `Django`, `PostgreSQL`, `SSMS`, `Linux`  
+- 🎌 Anime Fan – Favorite Character: **Sasori** (暁)  
+- 🕹️ Gamer – Favorite game: **Sekiro: Shadows Die Twice**
 
 ---
 
-## 📫 Connect with Me
+### 🛠️ Tech Stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksandre.martiashvili.1@btu.edu.ge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandre-martiashvili-002775371)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
+</p>
 
 ---
 
-> “Turning ideas into robust backend solutions, one line of code at a time.”
+### 📈 GitHub Stats
 
-⭐ Thanks for checking out my profile!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sasori2134&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasori2134&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="mailto:aleksandre.martiashvili.1@btu.edu.ge">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alex-link/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <em>“you must remember... hesitation is defeat.”</em><br>
+  — <strong>Isshin Ashina</strong>
+</p>
