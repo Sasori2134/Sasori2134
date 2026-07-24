@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex (Sasori2134)</h1>
-<h3 align="center">💻 IT Student | Backend & ML Enthusiast | Database Explorer</h3>
+<h3 align="center">💻 IT Student | Backend & Web | Database Explorer</h3>
 
 ---
 
@@ -7,8 +7,8 @@
 
 - 🎓 IT Student interested in **Machine Learning**, **Backend Development**, and **Databases**
 - 🐧 Linux user and open-source enthusiast  
-- 🔧 Currently learning: `PostgreSQL`, `Django`, and `Java`  
-- 🧠 Favorite tools: `Python`, `Django`, `PostgreSQL`, `SSMS`, `Linux`  
+- 🔧 Currently learning: `PostgreSQL`, `Django`, `Fastapi` 
+- 🧠 Favorite tools: `Python`, `Django`, `PostgreSQL`, `RabbitMQ`, `Linux`  
 - 🎌 Anime Fan – Favorite Character: **Sasori** (暁)  
 - 🕹️ Gamer – Favorite game: **Sekiro: Shadows Die Twice**
 
@@ -20,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
